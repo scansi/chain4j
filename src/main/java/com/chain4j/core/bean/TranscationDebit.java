@@ -1,7 +1,7 @@
-package com.chain4j.bean;
+package com.chain4j.core.bean;
 
 /**
- * Created by rocketz@aliyun.com on 2018/3/8.
+ * Created by rz on 2018/3/8.
  * 借入类
  */
 public class TranscationDebit {

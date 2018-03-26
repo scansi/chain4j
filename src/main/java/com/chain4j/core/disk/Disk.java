@@ -1,12 +1,13 @@
-package com.chain4j.disk;
+package com.chain4j.core.disk;
 
-import com.chain4j.bean.Block;
-import com.chain4j.bean.BlockIndex;
+
+import com.chain4j.core.bean.Block;
+import com.chain4j.core.bean.BlockIndex;
 
 import java.io.File;
 
 /**
- * Created by TCLDUSER on 2018/3/26.
+ * Created by rz on 2018/3/26.
  */
 public class Disk {
 

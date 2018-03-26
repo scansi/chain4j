@@ -1,7 +1,7 @@
-package com.chain4j.bean;
+package com.chain4j.core.bean;
 
 /**
- * Created by rocketz@aliyun.com on 2018/3/7.
+ * Created by rz on 2018/3/7.
  * 贷出类
  */
 public class TranscationCredit {

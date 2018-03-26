@@ -1,11 +1,10 @@
-package com.chain4j.db;
+package com.chain4j.core.db;
 
-import com.chain4j.bean.Block;
-import com.chain4j.bean.BlockIndex;
-import com.chain4j.bean.Transaction;
+import com.chain4j.core.bean.BlockIndex;
+import com.chain4j.core.bean.Transaction;
 
 /**
- * Created by rocketz on 2018/2/7.
+ * Created by rz on 2018/2/7.
  */
 public class Db {
 

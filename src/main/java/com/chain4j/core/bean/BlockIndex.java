@@ -1,7 +1,7 @@
-package com.chain4j.bean;
+package com.chain4j.core.bean;
 
 /**
- * Created by rocketz@aliyun.com on 2018/2/7.
+ * Created by rz on 2018/2/7.
  */
 public class BlockIndex {
     private Block block;

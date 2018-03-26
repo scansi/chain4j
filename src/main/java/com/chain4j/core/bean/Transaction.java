@@ -1,9 +1,9 @@
-package com.chain4j.bean;
+package com.chain4j.core.bean;
 
 import java.util.List;
 
 /**
- * Created by rocketz@aliyun.com on 2018/2/7.
+ * Created by rz on 2018/2/7.
  * 交易类
  */
 public class Transaction {

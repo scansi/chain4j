@@ -1,9 +1,9 @@
-package com.chain4j.main;
+package com.chain4j.core.main;
 
-import com.chain4j.bean.Key;
-import com.chain4j.bean.Transaction;
-import com.chain4j.bean.TranscationCredit;
-import com.chain4j.utils.HashUtil;
+import com.chain4j.core.bean.Key;
+import com.chain4j.core.bean.Transaction;
+import com.chain4j.core.bean.TranscationCredit;
+import com.chain4j.core.utils.HashUtil;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by rocketz@aliyun.com on 2018/3/7.
+ * Created by rz on 2018/3/7.
  */
 public class main {
     private Map<String, String> mapKeys = new HashMap<String, String>();
