@@ -1,4 +1,4 @@
-package com.chain4j.core.utils;
+package com.chain4j.service.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

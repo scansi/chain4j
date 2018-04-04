@@ -1,7 +1,7 @@
-package com.chain4j.core.db;
+package com.chain4j.service.db;
 
-import com.chain4j.core.bean.BlockIndex;
-import com.chain4j.core.bean.Transaction;
+import com.chain4j.service.bean.BlockIndex;
+import com.chain4j.service.bean.Transaction;
 
 /**
  * Created by rz on 2018/2/7.

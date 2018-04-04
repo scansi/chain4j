@@ -1,4 +1,4 @@
-package com.chain4j.core.bean;
+package com.chain4j.service.bean;
 
 /**
  * Created by rz on 2018/3/8.

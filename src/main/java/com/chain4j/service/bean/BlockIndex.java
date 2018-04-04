@@ -1,19 +1,29 @@
-package com.chain4j.core.bean;
+package com.chain4j.service.bean;
 
 /**
  * Created by rz on 2018/2/7.
  */
 public class BlockIndex {
-    private Block block;
+    private Integer fileIndex;
+    private Long pos;
     private BlockIndex prev;
     private BlockIndex next;
 
-    public Block getBlock() {
-        return block;
+    public Integer getFileIndex() {
+        return fileIndex;
     }
 
-    public BlockIndex setBlock(Block block) {
-        this.block = block;
+    public BlockIndex setFileIndex(Integer fileIndex) {
+        this.fileIndex = fileIndex;
+        return this;
+    }
+
+    public Long getPos() {
+        return pos;
+    }
+
+    public BlockIndex setPos(Long pos) {
+        this.pos = pos;
         return this;
     }
 

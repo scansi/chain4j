@@ -1,4 +1,4 @@
-package com.chain4j.core.bean;
+package com.chain4j.service.bean;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;

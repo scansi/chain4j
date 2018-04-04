@@ -1,12 +1,13 @@
-package com.chain4j.core.bean;
+package com.chain4j.service.bean;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by rz on 2018/2/7.
  */
-public class Block {
+public class Block implements Serializable{
 
     private BlockIndex blockIndex;
     private List<Transaction> transactionList = new ArrayList<Transaction>();
