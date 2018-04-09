@@ -21,6 +21,13 @@
 ### 三、产品技术框架
 ![](https://github.com/scansi/chain4j/blob/master/img/chain4j.png)
 
-### 四、联系我们,请发邮件到：<chain4j@126.com>
+### 四、发展路线
+ * 2018 Q1 完成产品白皮书
+ * 2018 Q2 完成chain4J v0.01版本发布
+ * 2018 Q3 完成基于slack的团队沟通工具搭建，并正式公开招募贡献者参与
+ * 2019 Q1 完成chain4J v1.0.0版本发布，并对外提供基于chain4J开发实践的云团队协作及回报机制解决方案
+
+### 五、联系我们,请发邮件到
+ <chain4j@126.com>
 
 
